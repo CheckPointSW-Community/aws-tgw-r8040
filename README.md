@@ -1,4 +1,4 @@
-# AWS CloudGuard Network Security Transit Gateway Demonstration 
+# CloudGuard Network Security for AWS Transit Gateway Demonstration 
 
 Terraform scripts for transit gateway demonstration of CloudGuard in AWS \
 Builds the complete environment with web and application servers, northbound and southbound e-w hubs \
